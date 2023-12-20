@@ -1,0 +1,2 @@
+# Put this script to a folder containing m3u8 files and `python ./convert.py`.
+# Can be used to solve the issue of imported playlist containing special characters not recognized by Sonos systems[ref1](https://en.community.sonos.com/components-and-architectural-228999/imported-playlists-with-special-characters-why-can-t-sonos-read-them-correctly-6812302),[2](https://en.community.sonos.com/components-and-architectural-228999/imported-playlists-with-special-characters-scripted-solution-6877039).
